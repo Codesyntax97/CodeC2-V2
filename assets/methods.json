@@ -9,7 +9,6 @@
     {"name": "Hold", "description": "layer 7 - Attack Url [normal]", "duration": "3000"},
     {"name": "Https", "description": "layer 7 - Attack Url [normal]", "duration": "3000"},
     {"name": "Https2", "description": "layer 7 - Attack Url [normal]", "duration": "3000"},
-    {"name": "Kill", "description": "layer 7 - Attack Url [normal]", "duration": "3000"},
     {"name": "Mix", "description": "layer 7 - Attack Url [normal]", "duration": "3000"},
     {"name": "MixBill", "description": "layer 7 - Attack Url [normal]", "duration": "3000"},
     {"name": "Storm", "description": "layer 7 - Attack Url [normal]", "duration": "3000"},
